@@ -14,7 +14,7 @@ require_once 'helpers/Helper.php';
                     </li>
                     <li>
                         <span class="fas fa-envelope"></span>
-                        <p><a href="mailto:info@example.com">abc@gmail.com</a></p>
+                        <p><a href="mailto:info@example.com">test@gmail.com</a></p>
                     </li>
                     <li>
                     </li>
