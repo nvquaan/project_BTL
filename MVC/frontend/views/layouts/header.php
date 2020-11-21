@@ -10,7 +10,7 @@ require_once 'helpers/Helper.php';
                 <ul>
                     <li>
                         <span class="fas fa-phone-volume"></span>
-                        <p>+(000)123 4565 32</p>
+                        <p>+123456</p>
                     </li>
                     <li>
                         <span class="fas fa-envelope"></span>
